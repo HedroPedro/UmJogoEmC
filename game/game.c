@@ -5,6 +5,12 @@
 
 #undef main
 
+SDL_Window *window;
+
+void initGame();
+
 int main(){
     
 }
+
+void initGame(){}

@@ -6,5 +6,5 @@
 #undef main
 
 int main(){
-    printf("Ola mundo");
+    
 }

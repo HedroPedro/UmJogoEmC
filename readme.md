@@ -1,0 +1,3 @@
+## Requisitos
+- Compilador C
+- Makefile
